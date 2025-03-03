@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=5&i=html,css,js,ts,react,next,astro,gatsby,lit,figma" />
 
 ## Activities
 <div align="left"> 
